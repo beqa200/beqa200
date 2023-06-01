@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as **Lecturer/Mentor at Bitcamp**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-beqa200.vercel.app/](https://my-portfolio-beqa200.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://my-portfolio-beqa200.vercel.app/)
 
 - 💬 Ask me about **React, Next, Node**
 
