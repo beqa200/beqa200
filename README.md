@@ -26,7 +26,7 @@
 
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/beqa200/beqa200/blob/output/github-contribution-grid-snake.gif" />
 </picture>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=beqa200&show_icons=true&locale=en&layout=compact" alt="beqa200" /></p>
