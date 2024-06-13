@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beqa200" alt="beqa200" /></a> </p>
 
-- 🔭 I’m currently working as **Lecturer/Mentor at Bitcamp**
+- 🔭 I’m currently working as **Lecturer/Mentor at AlgoUni and Full-Stack Developer at TetroByte**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://my-portfolio-beqa200.vercel.app/)
 
