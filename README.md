@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beqa200&label=Profile%20views&color=0e75b6&style=flat" alt="beqa200" /> </p>
 
 
-- 🔭 I’m currently working as **Lecturer/Mentor at AlgoUni and Full-Stack Developer at Euro Credit**
+- 🔭 I’m currently working as **Lecturer/Mentor at AlgoUni / Full-Stack Developer at EuroCredit / Full-Stack Developer at Ecovis**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://my-portfolio-beqa200.vercel.app/)
 
