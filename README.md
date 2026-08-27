@@ -11,7 +11,6 @@
   <a href="https://linkedin.com/in/beka-maisuradze-76a730234"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:beqamaisuradze912@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://twitter.com/beqamaisuradze7"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://instagram.com/beqa_maisuradzee"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <img src="https://komarev.com/ghpvc/?username=beqa200&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 
