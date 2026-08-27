@@ -20,7 +20,6 @@
 
 Full-Stack Developer with **4 years of professional experience** building scalable web applications and enterprise systems across **finance, HR and ERP** domains. I work end-to-end — from UI design to API architecture, infrastructure and deployment — and I like turning messy manual business processes into automated ones.
 
-- 🔭 Currently building **Sellvio**, a performance-based UGC creator marketplace (Next.js · NestJS · PostgreSQL)
 - 🎓 Co-Founder, Mentor & Lecturer at **AlgoUni** — taught **100+ students** React, Next.js and Node.js
 - 🌱 Deepening my work in **system design, microservices and AI-powered products**
 - 💬 Ask me about **React, Next.js, Vue/Nuxt, Node.js, NestJS, Prisma, AWS**
