@@ -113,12 +113,17 @@ Full-Stack Developer with **4 years of professional experience** building scalab
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=beqa200&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Beka's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beqa200&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top languages" />
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=beqa200&hide_border=true&theme=tokyonight&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" alt="GitHub streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beqa200&theme=github_dark" alt="Profile details" width="98%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=beqa200&theme=github_dark" alt="Top languages by repo" height="200" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=beqa200&theme=github_dark" alt="Most committed language" height="200" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=beqa200&theme=github_dark" alt="Stats" height="200" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=beqa200&theme=github_dark&utcOffset=4" alt="Productive time" height="200" />
+
+<img src="https://streak-stats.demolab.com?user=beqa200&hide_border=true&theme=tokyonight&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" alt="GitHub streak" width="98%" />
+
 </div>
 
 ---
