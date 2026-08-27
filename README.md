@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://my-portfolio-beqa200.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+3%2B+years+of+experience;React+%C2%B7+Next.js+%C2%B7+Vue+%C2%B7+Nuxt+%C2%B7+Node.js+%C2%B7+NestJS;Building+fintech%2C+HR+and+ERP+platforms;Co-Founder+%26+Lecturer+%40+AlgoUni" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+4+years+of+experience;React+%C2%B7+Next.js+%C2%B7+Vue+%C2%B7+Nuxt+%C2%B7+Node.js+%C2%B7+NestJS;Building+fintech%2C+HR+and+ERP+platforms;Co-Founder+%26+Lecturer+%40+AlgoUni" alt="Typing SVG" />
   </a>
 </p>
 
